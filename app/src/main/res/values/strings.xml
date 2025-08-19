@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StockInfo</string>
+    <string name="candle_stick">CandleStick</string>
+</resources>
