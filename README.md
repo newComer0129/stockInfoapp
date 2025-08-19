@@ -1,7 +1,7 @@
 # stockInfoapp  
 app 畫面截圖  
   
-起始頁面，可添加股票代號至清單
+起始頁面，可添加股票代號至清單   
 ![image](stockInfoapp/demo1.jpg)  
 ![image](stockInfoapp/demo2.jpg)  
 ![image](stockInfoapp/demo3.jpg)  
